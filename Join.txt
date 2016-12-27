@@ -1,0 +1,37 @@
+
+
+
+Join us for free now!!!
+Join us and collab to develop a software that people need
+
+Join me by contacting me!
+
+Contact me via Email ( anandarisyad@gmail.com )
+
+
+
+Hint!
+
+I__| How we work? Where? When? How? :
+
+    We will work in home... Whenever we have an assignment from us... We can do live chat, Sharing Code, Maybe There More Ideas By You All Guys
+    
+    
+II__| Where do we get the assingment? And When? By Who I Get The Assignment? :
+    You will get the assignment in this repository, We will hold a discussion about the project...  After the discussion we make an assignment for you members!, The assigment is created by me and you all after discussion... and we will upload a file .txt everyday in a folder call "Asssignment" in the repository .
+    
+    
+    
+III__| What the assignment info will look like? :
+    Example = "01 / 01 / 2001
+               Daily Assignment  
+                                        [Title]
+                                Creating Account System
+                  [Name]           [Assignment Info]              [Time] (When he/she submit the assignment)  
+               1. John = Setup the UI Login Form, Register Form | 05 / 01 / 2001
+               2. Swift = Creating a database with MySQL Query | 12 / 01 / 2001
+               
+               
+               
+  Any Question?... Just contact me via Email             
+
